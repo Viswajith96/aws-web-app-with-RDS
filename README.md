@@ -1,6 +1,6 @@
 ## How to run.
 
-This script will create two EC2 instances (app1 & app2) and will install apache web server in it. Tested with a wordpress appliccation, 
+This script will create two EC2 instances (app1 & app2) and will be added as backend for an ELB and will install apache web server in it. Tested with a wordpress appliccation, 
 if we want to change the app just need to update the bootstrap script.
 
 generate the key pair for EC2 before running script.
